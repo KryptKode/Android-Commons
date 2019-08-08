@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">common</string>
+    <string name="no_app_found">App not found</string>
+    <string name="share_via">Share via</string>
+    <string name="maximum_share_reached">You cannot share this much content at once</string>
+    <string name="set_as">Set as</string>
+    <string name="edit_with">Edit with</string>
+    <string name="open_with">Open with</string>
+    <string name="unknown_error_occurred">An unknown error occurred</string>
+    <string name="an_error_occurred">An error occurred: %s</string>
+</resources>
